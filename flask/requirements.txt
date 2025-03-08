@@ -1,0 +1,5 @@
+Flask
+spacy
+joblib
+scikit-learn
+pandas
